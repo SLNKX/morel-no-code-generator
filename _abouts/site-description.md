@@ -2,8 +2,8 @@
 title: description
 lang: en
 ---
-This is a no-code sample of a site built with MOREL. MOREL generates web sites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
-
+This is a firts prototype of a Feminist Digital Humanities Open Library made using MOREL.  
+Explore and enjoy the books on the list. 
 <!-- more -->
 
 Works are organized by dynamic lists, which automatically group the works according to common characteristics:
@@ -15,4 +15,4 @@ Works are organized by dynamic lists, which automatically group the works accord
 - [edition date]({{site.BASE_PATH}}/chriteria/edition)
 - [digital repository]({{site.BASE_PATH}}/criteria/repository).
 
-MOREL also has a [search engine]({{site.BASE_PATH}}/search) that allows you to find works directly.
+The library also has a [search engine]({{site.BASE_PATH}}/search) that allows you to find works directly.
